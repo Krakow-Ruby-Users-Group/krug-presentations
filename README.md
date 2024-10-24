@@ -2,7 +2,7 @@
 
 ## 2024-03
 
-- [Szymon Kurcab - AI-powered Rails - from chatbots to intelligent assistants](2024-03/AI-powered Rails.pdf)
+- [Szymon Kurcab - AI-powered Rails - from chatbots to intelligent assistants](./2024-03/AI-powered Rails.pdf)
 
 ## 2024-02
 
