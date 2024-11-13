@@ -2,8 +2,9 @@
 
 ## 2024-03
 
-- [Szymon Kurcab - AI-powered Rails - from chatbots to intelligent assistants](2024-03/AI-Powered%20Rails.pdf)
 - [Michał Samluk - Distributed Transactions with Temporal.io](https://distributed-transactions-presentation.vercel.app/)
+- [Michał Cebula - Integrating Monoliths with Message Brokers](2024-03/Integrating%20Monoliths%20with%20Message%20Brokers.pdf)
+- [Szymon Kurcab - AI-powered Rails - from chatbots to intelligent assistants](2024-03/AI-Powered%20Rails.pdf)
 
 ## 2024-02
 
