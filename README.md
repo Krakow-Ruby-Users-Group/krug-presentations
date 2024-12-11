@@ -1,5 +1,9 @@
 # KRUG presentations
 
+## 2024-04
+
+- [Paweł Strzałkowski - My LLM is smarter than yours](2024-04/My%20LLM%20is%20smarter%20than%20yours)
+
 ## 2024-03
 
 - [Michał Samluk - Distributed Transactions with Temporal.io](https://distributed-transactions-presentation.vercel.app/)
