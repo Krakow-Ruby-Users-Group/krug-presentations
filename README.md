@@ -2,7 +2,7 @@
 
 ## 2024-04
 
-- [Paweł Strzałkowski - My LLM is smarter than yours](2024-04/My%20LLM%20is%20smarter%20than%20yours)
+- [Paweł Strzałkowski - My LLM is smarter than yours](2024-04/My%20LLM%20is%20smarter%20than%20yours.pdf)
 
 ## 2024-03
 
