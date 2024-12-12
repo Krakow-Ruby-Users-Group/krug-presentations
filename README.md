@@ -3,6 +3,7 @@
 ## 2024-04
 
 - [Paweł Strzałkowski - My LLM is smarter than yours](2024-04/My%20LLM%20is%20smarter%20than%20yours.pdf)
+- [Mariusz Kozieł - Building the future of Ruby through community](2024-04/Building%20the%20future%20of%20Ruby%20through%20community.pdf)
 
 ## 2024-03
 
