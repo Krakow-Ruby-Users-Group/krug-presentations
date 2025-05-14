@@ -1,5 +1,9 @@
 # KRUG presentations
 
+## 2025-02
+
+- [Charles Nutter - JRuby 10: Improve your Ruby with JIT, GC, and Libraries from the JVM](2025-02/jruby10.pdf)
+
 ## 2024-04
 
 - [Paweł Strzałkowski - My LLM is smarter than yours](2024-04/My%20LLM%20is%20smarter%20than%20yours.pdf)
