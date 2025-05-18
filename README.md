@@ -2,7 +2,8 @@
 
 ## 2025-02
 
-- [Charles Nutter - JRuby 10: Improve your Ruby with JIT, GC, and Libraries from the JVM](2025-02/jruby10.pdf)
+- [Jury Razumau - How to write code for humans](2025-02/How%20to%20Write%20Code%20for%20Humans.pdf)
+- [Charles Nutter - JRuby 10: Improve your Ruby with JIT, GC, and Libraries from the JVM](2025-02/JRuby%2010.pdf)
 
 ## 2024-04
 
