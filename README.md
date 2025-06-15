@@ -1,5 +1,9 @@
 # KRUG presentations
 
+## 2025-03
+
+- [José Valim - Livebook - where Web, AI, and Concurrency meet](2025-03/livebook.livemd)
+
 ## 2025-02
 
 - [Jury Razumau - How to write code for humans](2025-02/How%20to%20Write%20Code%20for%20Humans.pdf)
