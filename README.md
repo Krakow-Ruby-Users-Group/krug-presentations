@@ -2,7 +2,7 @@
 
 ## 2025-04
 
-- [Wojtek Wrona - PostgreSQL to SQLite migration](2025-04/postgresql-to-sqlite.pdf)
+- [Wojtek Wrona - PostgreSQL to SQLite migration](2025-04/postgres-to-sqlite.pdf)
 - [Jan Dudulski - Decider Pattern](2025-04/decider-pattern.pdf)
 - [Sebastian Tekieli - Building mobile apps the Rails Way](2025-04/mobile-apps.key)
 
