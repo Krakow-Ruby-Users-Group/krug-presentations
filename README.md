@@ -1,5 +1,11 @@
 # KRUG presentations
 
+## 2025-04
+
+- [Wojtek Wrona - PostgreSQL to SQLite migration](2025-04/postgresql-to-sqlite.pdf)
+- [Jan Dudulski - Decider Pattern](2025-04/decider-pattern.pdf)
+- [Sebastian Tekieli - Building mobile apps the Rails Way](2025-04/mobile-apps.key)
+
 ## 2025-03
 
 - [José Valim - Livebook - where Web, AI, and Concurrency meet](2025-03/livebook.livemd)
